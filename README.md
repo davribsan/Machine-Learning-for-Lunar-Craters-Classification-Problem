@@ -1,6 +1,6 @@
 # Machine Learning for Lunar Crater Classification
 
-This repository contains Python Jupyter notebooks and data files for classifying craters on the Moon from grayscale images using different machine learning models, including convolutional and fully connected neural networks, as well as random forests.
+This repository contains Python Jupyter notebooks and data files for classifying craters on the Moon from grayscale images using different machine learning models, including convolutional and fully connected neural networks, as well as random forests. Python Jupyter notebooks have been used for this project to isolate errors in high computational time files.    
 
 ## Overview
 
